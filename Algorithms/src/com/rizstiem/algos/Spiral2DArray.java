@@ -29,7 +29,7 @@ input = 8
 
 */
 
-
+package com.rizstiem.algos;
 
 public class Spiral2DArray {
 

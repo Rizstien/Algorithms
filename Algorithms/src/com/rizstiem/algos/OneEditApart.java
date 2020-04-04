@@ -19,7 +19,7 @@ OneEditApart("cat", "act") = false
 */
 
 
-
+package com.rizstiem.algos;
 
 public class OneEditApart {
 

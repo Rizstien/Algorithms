@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

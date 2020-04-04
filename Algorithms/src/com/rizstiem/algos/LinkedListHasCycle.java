@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 
 class SinglyLinkedListNode {
     int data;

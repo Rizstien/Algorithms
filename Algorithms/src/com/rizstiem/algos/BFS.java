@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 
 import java.io.IOException;
 import java.util.HashMap;

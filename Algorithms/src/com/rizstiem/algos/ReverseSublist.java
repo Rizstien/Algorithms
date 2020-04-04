@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 
 class ReverseSublist {
 	class Node {

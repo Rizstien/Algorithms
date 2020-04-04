@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 
 public class WaysToDecode {
     public int numDecodings(String A) {

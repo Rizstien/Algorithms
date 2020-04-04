@@ -1,4 +1,4 @@
-
+package com.rizstiem.algos;
 public class UniquePathsWithObstacles {
     public int uniquePathsWithObstacles(int[][] A) {
         
