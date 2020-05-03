@@ -33,7 +33,6 @@ public class BFS {
             addEdge(edges[i][0],edges[i][1]);
         }
 
-        int k=0;
         for(int i=1;i<=n;i++){
             if(i!=s){ 
                 System.out.print(pathLengthBFS(s,i)+" ");
